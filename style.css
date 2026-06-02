@@ -1,0 +1,27 @@
+*{
+     background-color: #000000;
+     margin: 10px;
+     padding: 10px;
+}
+
+@font-face {
+    font-family: 'بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ';
+    src: url('font/AmiriQuran-Regular.ttf') ;
+}
+h1{
+    font-family: 'بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ';
+    color: white;
+     word-spacing: normal;
+    font-size: 60px;
+    text-align: center;
+    
+}
+p{
+    color: white;
+    font-family: 'بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ';
+    font-size: 40px;
+    text-align: center;
+    line-height: 100px;
+    word-spacing: 10px;
+    margin-top: 30px;
+}
